@@ -1,5 +1,5 @@
 import java.util.*;
-public class VandC{
+public class VowelsandConsonants{
     public static void main(String[]args){
       Scanner sc=new Scanner(System.in);
       String a=sc.nextLine();
